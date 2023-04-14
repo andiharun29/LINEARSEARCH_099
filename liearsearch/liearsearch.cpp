@@ -31,3 +31,8 @@ void input()
 
 
 void linesearch()
+{
+	char ch;
+	int comparisons;
+
+	
