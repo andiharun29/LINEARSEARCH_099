@@ -35,4 +35,10 @@ void linesearch()
 	char ch;
 	int comparisons;
 
-	
+	do
+	{
+		cout << "\nenter the element you want to search: ";
+		int item;
+		cin >> item;
+
+		
