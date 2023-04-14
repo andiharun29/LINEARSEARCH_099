@@ -57,5 +57,10 @@ void linesearch()
 			cout << "\n" << item << "not found in the array\n";
 		cout << "\nnumber of comparisons: " << comparisons << endl;
 
-		
+		cout << "\ncontinue search (y/n): ";
+		cin >> ch;
+	} while ((ch == 'y') || (ch == 'Y'));
+}
+
+
 
