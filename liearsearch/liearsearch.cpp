@@ -30,3 +30,4 @@ void input()
 
 
 
+void linesearch()
